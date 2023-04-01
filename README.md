@@ -1,3 +1,13 @@
+## Projeto para desenvolver próprios posts e compartilhar com o mundo!
+
+Se voltarmos para a página de início, tem vários posts com textos, fotos de cada post. E veja bem, também tem uma outra página chamada “Sobre mim”.
+
+Design maravilhoso foi feito a partir do Figma, com parte responsiva.
+
+Isso é o que chamamos de SPA, uma sigla para single page application, que traduzindo, significa aplicação de página única, utilizando a biblioteca chamada React Router Dom. É uma biblioteca que ajuda bastante, esse projeto tem muitos recursos, como criar um roteador, alternando várias rotas, tem rotas aninhadas, tem rotas dinâmicas.
+
+Abrange sobre os hooks do React Router Dom, que tem o use location, tem o use params. É necessário ter conhecimento em React, como reatividade, os hooks nativos do React, e também como lidar com arquivos estáticos, sendo utilizando bastante.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
